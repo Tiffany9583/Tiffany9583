@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align = "center"> 💫 Hi there, I am Yi-Ting Hung 👋</h1>
 
-I am a Ph.D. student who is excited about the huge potential of artificial intelligence in entomology. My passiom is **Insect behavior** and **Machine Learning**. My previous work includes research & development in **Metagenomics** , **R data Visualization** and **Automatic insect tracking**.
+I am a Ph.D. student who is excited about the huge potential of artificial intelligence in entomology. My passions are **Insect behavior** and **Machine Learning**. My previous work includes research & development in **Metagenomics** , **R data Visualization** and **Automatic insect tracking**.
 
 <h2> Current and previous projects: </h2>
 <h3> :muscle: Automatic fruit fly tracking </h3>
@@ -57,7 +57,7 @@ You can find the code on
 
 <h2>:punch: My Skills:</h2>
 
-With an entomology major, molecular biology, and ecology background, I excel at molecular bench work, statistics, and programming, which distinguish me with great ability to perform interdisciplinary machine learning applications on entomology or bioinformatics data scientists takes.
+With an entomology major and computer science background, I excel at molecular bench work, statistics, and programming, which distinguish me with great ability to perform interdisciplinary machine learning applications on entomology or bioinformatics data scientists takes.
 
 <h3> Programming Languages </h3>
 
