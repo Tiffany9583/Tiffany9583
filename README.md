@@ -39,6 +39,7 @@ Quick Overview of the project
 [![IMAGE ALT TEXT HERE](https://github.com/Tiffany9583/Tiffany9583/blob/master/img/know_more_pest.png)](https://youtu.be/Mfxs8rS9XXU)
 
 <h3> :bar_chart: ShowFig website development </h3>
+Data visualization always a big challenge for scientists. In this project, I created a program for my partner laboratory that utilizes customized R code to generate accurate and efficient visual representations. 
 ShowFig is a scientific figure plotting website built with R and Shiny.
 
 <table>
