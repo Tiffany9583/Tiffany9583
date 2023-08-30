@@ -23,10 +23,10 @@ This is the project that I am working on. The goal of the project is to track fl
 <table>
   <tr>
     <td>
-      <img src="video\A2.gif" alt="Video">
+      <img src="https://github.com/Tiffany9583/Tiffany9583/blob/master/video/A2.gif" alt="Video">
     </td>
     <td>
-      <img src="video\A2_output.gif" alt="Otuput_vedio">
+      <img src="https://github.com/Tiffany9583/Tiffany9583/blob/master/video/A2_output.gif" alt="Otuput_vedio">
     </td>
   </tr>
 </table>
@@ -35,7 +35,8 @@ This is the project that I am working on. The goal of the project is to track fl
 I also work on website development. In the previous hackathon competition, we developed a website to introduce common indoor pests in a close and cute way.
 
 Quick Overview of the project
-[![IMAGE ALT TEXT HERE](img\know_more_pest.png)](https://youtu.be/Mfxs8rS9XXU)
+
+[![IMAGE ALT TEXT HERE](https://github.com/Tiffany9583/Tiffany9583/blob/master/img/know_more_pest.png)](https://youtu.be/Mfxs8rS9XXU)
 
 <h3> :bar_chart: ShowFig website development </h3>
 ShowFig is a scientific figure plotting website built with R and Shiny.
