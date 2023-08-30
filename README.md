@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Ph.D. student who is excited about the huge potential of artificial intelligence in entomology. My passiom is **Insect behavior** and **Machine Learning**. My previous work includes research & development in **Metagenomics** , **R data Visualization** and **Automatic insect tracking**.
 
-<h2> Previous works: </h2>
+<h2> Current and previous projects: </h2>
 <h3> :muscle: Automatic fruit fly tracking </h3>
 This is the project that I am working on. The goal of the project is to track flies and analysis their social activity.
 <table>
