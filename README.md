@@ -23,10 +23,10 @@ This is the project that I am working on. The goal of the project is to track fl
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Tiffany9583/Tiffany9583/blob/master/video/A2.gif" alt="Video">
+      <img src="video\A2.gif" alt="Video">
     </td>
     <td>
-      <img src="https://github.com/Tiffany9583/Tiffany9583/blob/master/video/A2_output.gif" alt="Otuput_vedio">
+      <img src="video\A2_output.gif" alt="Otuput_vedio">
     </td>
   </tr>
 </table>
